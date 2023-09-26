@@ -1,0 +1,6 @@
+1.Compare the sales and Order using single chart
+2. Which month got the highest sales and Orders
+3. Who purchased more - Men or Women 2022
+4.What are different order status in 2022
+5.What are different order status in 2022
+6.List top 5 states contributing the sales
