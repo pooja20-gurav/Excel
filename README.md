@@ -1,6 +1,7 @@
 # Excel
 
-![Uploading Excel-Formulas-Absolute-Reference-Gif-1.gif…]()
+
+![Excel-Formulas-Absolute-Reference-Gif-1](https://github.com/pooja20-gurav/Excel/assets/81917801/3e6c2fbf-46b3-4cf7-8ab8-8a84932417f8)
 
 ## Title: "Excel: Your Guide to Navigating the Ocean of Data"
 
